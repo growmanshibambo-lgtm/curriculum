@@ -1,6 +1,6 @@
----
+cell stream
 author: kapnobatai136
-
+Ai : coding
 type: normal
 
 category: discussion
@@ -19,7 +19,7 @@ revisionQuestion:
 
 # Why learn to code?
 
----
+bringing ideas to life
 ## Content
 
 Learning how code works isn't only for developers - it can help everyone! 
@@ -46,7 +46,7 @@ Let's take a glimpse into the world of coding with Python! Can you figure out ho
 > You'll learn all about how this works in the upcoming lessons.
 
 ```python
-???("My first line of code!")
+???("hi how many I help you !")
 ```
 
 - print
